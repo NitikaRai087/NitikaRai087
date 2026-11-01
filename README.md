@@ -1,76 +1,59 @@
-# Hi there, I'm Nitika Rai 👋
+<!-- Profile Header -->
+<div align="center">
 
-### Data Analyst | AI & Machine Learning Enthusiast
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:8957E5&height=190&section=header&text=Nitika%20Rai&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=58&descSize=18" width="100%" />
 
-I'm a BCA graduate passionate about Data Analytics, Artificial Intelligence, and Machine Learning. I enjoy working with data, discovering patterns, building analytical solutions, and transforming raw information into actionable insights.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+%26+ML+Enthusiast;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Actionable+Insights" alt="Typing SVG" />
+</a>
 
-I believe in continuous learning and building practical projects that solve real-world problems.
+<p>
+  <a href="https://www.linkedin.com/in/nitika-rai-417872280/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/NitikaRai087"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
----
+</div>
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-- 🎓 BCA Graduate from IP University (2025)
-- 📊 Interested in Data Analytics, Data Science & Business Intelligence
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 💼 Experience in Data Analytics, AI & Advanced Excel training
-- 🌱 Currently strengthening my skills in Python, SQL, Power BI and Machine Learning
-- 🎯 Goal: Build data-driven solutions that create meaningful business impact
+I'm a BCA graduate from **IP University (2025)**, interested in Data Analytics, Artificial Intelligence, and Machine Learning. I enjoy exploring datasets, identifying patterns, building predictive models, and presenting insights that support better decisions.
 
----
+- 🎓 BCA graduate, IP University
+- 📊 Interested in Data Analytics, Data Science, and Business Intelligence
+- 🤖 Exploring Machine Learning and practical AI applications
+- 💼 Experience in data analytics and AI/Advanced Excel training
+- 🌱 Continuously developing my skills in Python, SQL, Excel, and Power BI
 
-## 🛠️ Technical Skills
+## 🧰 Skills & Tools
 
-**Programming Languages**
-- Python, SQL, Java, C++
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,git,github,vscode" alt="Technical skills" />
+</p>
 
-**Data Analytics & Visualization**
-- Microsoft Excel
-- Power BI
-- Pandas, NumPy
-- Matplotlib, Seaborn
-
-**Machine Learning**
-- Scikit-learn
-- Random Forest
-- Classification & Predictive Modeling
-- Data Cleaning & Preprocessing
-
-**Tools & Technologies**
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Selenium & TestNG
-- ChatGPT & Google Gemini
-
----
+| Area | Skills |
+|---|---|
+| Data Analytics | Excel, Power BI, data cleaning, data analysis |
+| Python & Libraries | Python, Pandas, NumPy, Matplotlib, Seaborn |
+| Machine Learning | Scikit-learn, Random Forest, classification, model evaluation |
+| Databases | SQL |
+| Testing & Tools | Selenium, TestNG, Git, GitHub, VS Code |
+| AI Productivity | ChatGPT, Google Gemini |
 
 ## 🚀 Featured Projects
 
 ### 1. Financial Fraud Detection
-- Developed a Python-based machine learning project to identify potentially fraudulent financial transactions.
-- Compared multiple machine learning models across datasets.
-- Built an interactive Streamlit dashboard.
+A Python machine-learning project focused on identifying potentially fraudulent financial transactions, comparing models across datasets, and presenting results through an interactive Streamlit dashboard.
 
-**Tech:** Python | Pandas | Scikit-learn | Streamlit
+**Tools:** Python · Pandas · Scikit-learn · Streamlit
 
-[View Project](YOUR_FINANCIAL_FRAUD_REPOSITORY_LINK)
+[![Financial Fraud Detection](https://img.shields.io/badge/View_Project-Financial_Fraud_Detection-2F81F7?style=for-the-badge&logo=github)](https://github.com/NitikaRai087/Financial-Fraud-Detection)
 
-### 2. Heart Disease Prediction Using Machine Learning
-- Developed a predictive model using machine learning.
-- Worked on data preprocessing, model training and evaluation.
+### 2. Titanic Survival Prediction
+A machine-learning project exploring passenger data and predicting survival using classification techniques.
 
-**Tech:** Python | Pandas | Scikit-learn
+**Tools:** Python · Pandas · Scikit-learn · Machine Learning
 
-[View Project](YOUR_HEART_DISEASE_REPOSITORY_LINK)
-
-### 3. Data Analytics Projects
-- Practising data cleaning, analysis and visualization.
-- Working with Excel, SQL and Power BI to generate business insights.
-
-[Explore My Repositories](YOUR_GITHUB_PROFILE_LINK?tab=repositories)
-
----
+[![Titanic Survival Prediction](https://img.shields.io/badge/View_Project-Titanic_Survival_Prediction-8957E5?style=for-the-badge&logo=github)](https://github.com/NitikaRai087/Titanic-Survival-Prediction-using-Machine-Learning)
 
 ## 📜 Certifications
 
@@ -78,23 +61,40 @@ I believe in continuous learning and building practical projects that solve real
 - Power BI Micro Course
 - Great Learning – Web Analytics
 
----
+## 📊 GitHub Analytics
 
-## 📊 GitHub Statistics
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=NitikaRai087&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Nitika's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitikaRai087&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
----
+<img src="https://streak-stats.demolab.com?user=NitikaRai087&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="75%" />
+
+</div>
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NitikaRai087&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NitikaRai087&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" width="100%" />
+</div>
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/nitika-rai-417872280/)
-- 💻 GitHub: [Explore my work](https://github.com/YOUR_GITHUB_USERNAME)
+- 💼 LinkedIn: [Nitika Rai](https://www.linkedin.com/in/nitika-rai-417872280/)
+- 💻 GitHub: [NitikaRai087](https://github.com/NitikaRai087)
 
 ---
 
+<div align="center">
+
 ⭐ *Turning Data into Insights, and Insights into Impact.*
 
-**Thank you for visiting my profile!**
+</div>
