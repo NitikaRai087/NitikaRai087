@@ -12,6 +12,10 @@
   <a href="https://github.com/NitikaRai087"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=NitikaRai087&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 </div>
 
 ## 👋 About Me
