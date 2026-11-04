@@ -59,6 +59,13 @@ A machine-learning project exploring passenger data and predicting survival usin
 
 [![Titanic Survival Prediction](https://img.shields.io/badge/View_Project-Titanic_Survival_Prediction-8957E5?style=for-the-badge&logo=github)](https://github.com/NitikaRai087/Titanic-Survival-Prediction-using-Machine-Learning)
 
+### 3. Customer Churn Prediction Dashboard
+An interactive Power BI report for exploring customer churn patterns, customer segments, and potential retention opportunities.
+
+**Tools:** Microsoft Power BI · Power Query · DAX
+
+[![Customer Churn Prediction](https://img.shields.io/badge/View_Project-Customer_Churn_Prediction-0D9488?style=for-the-badge&logo=powerbi&logoColor=white)](https://github.com/NitikaRai087/NitikaRai087/tree/main/customer-churn-prediction)
+
 ## 📜 Certifications
 
 - IBM – Introduction to Data Analyst
